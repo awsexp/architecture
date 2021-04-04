@@ -33,3 +33,7 @@ I created what are called the "3 sections of an audit". These are:
 - Security
 - Cost Optimization
 - Data Protection
+
+### WARRANTY
+
+No warranty is provided with this material and all effort has been made to cleanse and remove any identifying information in documents.
