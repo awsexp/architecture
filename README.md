@@ -4,6 +4,10 @@ All this content has been provided to help you become an AWS expert.
 
 The goal of this repository is to provide you as much content as possible to help you apply what you have learned in certifications to the real world.
 
+Feel free to create any issues for content that could be improved.
+
+Also feel free to add your own content for helping others to learn via a Pull Request.
+
 ## Architecture
 
 The Architecture Diagrams are generic diagrams that provide an idea of how to design resilient, secure systems and keep inline with AWS best practices as much as possible. These have been curated from my work over the last 10 years working with a range of different companies including government, enterprises, SMEs and startups.
